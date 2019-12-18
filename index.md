@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/luoruixuan/luoruixuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Research Interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* **Natural Language Processing**
+* **Deep Learning**
+* **Computer Vision**
 
-### Markdown
+# Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Sept. 2019 - Now.**  
+  Master student of Center for Data Science, Peking University.  
+  - Tutor: [孙栩/Xu Sun](https://xusun.org)
+- **Sept. 2015 - Jul. 2019**  
+  Bachelor of Electronic Engineering and Computer Science, Peking University.
 
-```markdown
-Syntax highlighted code block
+# Publication
 
-# Header 1
-## Header 2
-### Header 3
+(selected, \* means first authors, full list as [[semantic_scholar]](https://www.semanticscholar.org/author/Ruixuan-Luo/51152129))
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luoruixuan/luoruixuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Borui Jiang\*, **Ruixuan Luo\***, Jiayuan Mao\*, Tete Xiao, Yuning Jiang 
+Acquisition of Localization Confidence for Accurate Object Detection 
+In ECCV 2018
